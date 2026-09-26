@@ -1,2 +1,3 @@
 .venv/
 mnist.npz
+results.csv
